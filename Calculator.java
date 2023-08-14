@@ -14,6 +14,9 @@ public double multp( double a, double b) {
  return a * b;
  }
 
+public double mutiply( int a, int b) {
+return a * b; }
+
 public double multp( double a, double b) {
  return a / b;
  }
