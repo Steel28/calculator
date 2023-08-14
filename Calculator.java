@@ -13,4 +13,8 @@ public double subtraction( double a, double b) {
 public double multp( double a, double b) {
  return a * b;
  }
+
+public double multp( double a, double b) {
+ return a / b;
+ }
 }
